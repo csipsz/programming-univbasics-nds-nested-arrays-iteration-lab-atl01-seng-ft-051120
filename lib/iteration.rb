@@ -10,6 +10,7 @@ def join_ingredients(src)
   row_index += 1 
   output
 end
+end 
 
 #def find_greater_pair(src)
  # outer_results = []
