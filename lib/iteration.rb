@@ -8,8 +8,8 @@ def join_ingredients(src)
     element_index += 1 
     end
   row_index += 1 
-  output
   end
+  output
 end 
 
 #def find_greater_pair(src)
